@@ -1,0 +1,15 @@
+p {
+    background-color:#cd5c5c;
+    font-family: verdana, DejaVu sans, sans-serif;
+}
+p.large {
+    font-size:24px;
+}
+#blue {
+    color:#2e41ae;
+    font-size: 36px;
+}
+#grass {
+    background-color: #90ee90;
+    font-size: 24px;
+}
